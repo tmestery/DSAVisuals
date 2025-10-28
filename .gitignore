@@ -1,2 +1,16 @@
 .DS_Store
 local.properties
+.gradle/
+build/
+**/build/
+.idea/
+*.iml
+captures/
+outputs/
+*.apk
+*.ap_
+*.aab
+*.log
+.externalNativeBuild/
+.cxx/
+*.lock
